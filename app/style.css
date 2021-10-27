@@ -1,0 +1,29 @@
+h1{
+    background-color:rgb(36, 217, 230);
+    padding:20px;
+    text-align: center;
+}
+
+.myform input{
+margin:5px;
+}
+
+table{
+margin:5px;
+text-align: center;
+}
+
+body{
+   background-image: url(images/background70.jpg); 
+}
+
+td, th{
+    background-color: rgb(203, 253, 255);
+    color: rgba(8, 10, 34, 0.74);
+    font-size: 20px;
+}
+
+.butt{
+    size: 200px;
+   
+}

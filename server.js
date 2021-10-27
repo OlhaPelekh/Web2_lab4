@@ -5,7 +5,7 @@ var bodyParser=require('body-parser');
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/app'));
 app.get('/getusers',function(req,res){
     User.find(function(err,data){
     console.log(data);
