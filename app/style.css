@@ -5,11 +5,11 @@ h1{
 }
 
 .myform input{
-margin:5px;
+margin: 5px;
 }
 
 table{
-margin:5px;
+margin:10px;
 text-align: center;
 }
 
@@ -18,12 +18,8 @@ body{
 }
 
 td, th{
-    background-color: rgb(203, 253, 255);
+    background-color: rgb(208, 203, 255);
     color: rgba(8, 10, 34, 0.74);
     font-size: 20px;
 }
 
-.butt{
-    size: 200px;
-   
-}
